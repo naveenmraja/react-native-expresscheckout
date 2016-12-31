@@ -1,6 +1,6 @@
 {
   "name": "ExpressCheckout",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "React native wrapper for ExpressCheckout native SDK",
   "main": "ExpressCheckout.js",
   "keywords": [
